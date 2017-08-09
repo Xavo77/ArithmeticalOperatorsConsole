@@ -1,0 +1,6 @@
+C:\Files\ConsolaC#\ConsoleArithmeticalOperators\ConsoleArithmeticalOperators\bin\Debug\ConsoleArithmeticalOperators.exe.config
+C:\Files\ConsolaC#\ConsoleArithmeticalOperators\ConsoleArithmeticalOperators\bin\Debug\ConsoleArithmeticalOperators.exe
+C:\Files\ConsolaC#\ConsoleArithmeticalOperators\ConsoleArithmeticalOperators\bin\Debug\ConsoleArithmeticalOperators.pdb
+C:\Files\ConsolaC#\ConsoleArithmeticalOperators\ConsoleArithmeticalOperators\obj\Debug\ConsoleArithmeticalOperators.csprojResolveAssemblyReference.cache
+C:\Files\ConsolaC#\ConsoleArithmeticalOperators\ConsoleArithmeticalOperators\obj\Debug\ConsoleArithmeticalOperators.exe
+C:\Files\ConsolaC#\ConsoleArithmeticalOperators\ConsoleArithmeticalOperators\obj\Debug\ConsoleArithmeticalOperators.pdb
